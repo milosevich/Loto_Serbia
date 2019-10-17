@@ -5,3 +5,6 @@ Loto in Serbia is 7/39. Here are:
 - In file "in.txt" are all winning combinations from 2019/01/01 to 2019/10/10.
 
 You can run "Loto_random.py" and "Loto_7_from_39_in.py" from cmd.
+
+I put exe file here if someone who is downloading my project doesn't have Python installed.
+You need to have "in.txt" and "Loto_7_from_39.exe" to run it correctly. 
